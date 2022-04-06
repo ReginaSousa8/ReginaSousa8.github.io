@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReginaSousa8.github.io/static/css/main.5faf1907.css",
+    "main.js": "/ReginaSousa8.github.io/static/js/main.7c90ad84.js",
+    "static/media/me.jpg": "/ReginaSousa8.github.io/static/media/me.017a0f97dddd98bf7acd.jpg",
+    "index.html": "/ReginaSousa8.github.io/index.html",
+    "main.5faf1907.css.map": "/ReginaSousa8.github.io/static/css/main.5faf1907.css.map",
+    "main.7c90ad84.js.map": "/ReginaSousa8.github.io/static/js/main.7c90ad84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5faf1907.css",
+    "static/js/main.7c90ad84.js"
+  ]
+}
